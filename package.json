@@ -1,0 +1,31 @@
+{
+  "name": "@hexelnet/routes-helper",
+  "version": "0.0.1",
+  "description": "A lightweight, framework-agnostic helper function for URL generation and management in Javascript/TypeScript applications.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YassineGherbi/routes-helper.git"
+  },
+  "keywords": [
+    "url-generation",
+    "url-builder",
+    "path-builder",
+    "route-management",
+    "typescript",
+    "framework-agnostic",
+    "lightweight",
+    "routing",
+    "url-manipulation",
+    "url-utility"
+  ],
+  "author": "Yassine Gherbi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YassineGherbi/routes-helper/issues"
+  },
+  "homepage": "https://github.com/YassineGherbi/routes-helper#readme"
+}
